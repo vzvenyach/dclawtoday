@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="./assets/css/bootstrap.min.css" rel="stylesheet">
+
+<title>Today in DC Law</title>
+
+</head>
+<body>
+
+<div class="container">
+
+<p> Pick a date: <input type="date" id="new_date" name="new_date"></p>
+
+<div id="header">
+</div>
+
+
+<h2>United States Court of Appeals for the District of Columbia Circuit</h2> 
+<div id="CADC" class="court">
+</div>
+
+<h2>District of Columbia Court of Appeals</h2> 
+<div id="DCCA" class="court">
+</div>
+
+<h2>United States District Court for the District of Columbia</h2>
+<div id="DCD" class="court">
+</div>
+
+<h2>Council of the District of Columbia</h2>
+<div id="CDC" class="court"></div>
+
+</div>
+
+<script src="./assets/js/jquery.js"></script>
+<script src="./assets/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+
+var date = new Date().toISOString().replace(/T.*/,"");
+//date = "2014-04-02"
+
+function getMeasureJSON (measure_id) {
+	$.ajax({dataType:"jsonp",url: "http://api.opencivicdata.org/bills?id__openstates=" + measure_id + "&apikey=e1b0f4a0c7b94f70aed6e6273c2a5b2c"}).success(function (bills) {
+		console.log("Hey: " + measure_id)
+	})
+}
+
+function loadcases (loaddate) {
+	$("#header").append("<h1>Today is : " + loaddate + "</h1>")
+
+	$.getJSON('./json/' + loaddate + '.json', function (d) {
+		d.objects.forEach(function (court) {
+			if (court.court != undefined) {
+			court.decisions.forEach(function (c) {
+				$("#" + court.court).append("<p><a href='https://courtlistener.com" + c.absolute_url + "' target='blank'>" + c.citation.case_name + "</a> <a href='https://courtlistener.com/" + c.local_path + "' target='blank'><img src='./assets/imgs/pdficon_small.png' /></a></p>")
+				})
+			} else if (court.measures != undefined) {
+				court.measures.forEach(function (m) {
+					last_action = m.actions.length - 1
+					$("#CDC").append("<p><a href='" + m.sources[0].url + "' target='blank'>" + m.title + '</a> -- ' + m.actions[last_action].action + '</p>')
+				})
+			}
+		})
+	})
+}
+
+function cleardivs () {
+	$("#header").empty()
+	$(".court").empty()
+}
+
+$("#new_date").change(function () {
+	cleardivs()
+	loadcases($("#new_date").val())
+})
+
+$(document).ready(function () {
+	loadcases(date)
+})
+
+</script>
+</body>
+</html>

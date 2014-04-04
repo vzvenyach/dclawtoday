@@ -1,0 +1,468 @@
+{
+  "date": "2014-04-03", 
+  "objects": [
+    {
+      "decisions": [
+        {
+          "time_retrieved": "2014-04-03T08:31:54.007964", 
+          "date_blocked": null, 
+          "judges": "Judge Colleen Kollar-Kotelly", 
+          "sha1": "2621c45e8966d9e32b8c72c08a77958c74f202ce", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/03/covad_communications_company_v._revonet_inc.pdf", 
+          "date_modified": "2014-04-03T08:31:54.739413", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eDEM/covad-communications-company-v-revonet-inc/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Covad Communications Company v. Revonet Inc", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2663173/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2006-1892", 
+            "id": 2635946, 
+            "resource_uri": "/api/rest/v1/citation/2635946/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2006cv1892-214", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-03", 
+          "resource_uri": "/api/rest/v1/opinion/2663173/", 
+          "id": 2663173, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T08:01:35.173360", 
+          "date_blocked": null, 
+          "judges": "Judge Rosemary M. Collyer", 
+          "sha1": "a25ff06d37eed57f9a9c755c2de4652b643545a9", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/04/weekes_v._united_states_postal_service.pdf", 
+          "date_modified": "2014-04-04T08:02:08.416571", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eFch/weekes-v-united-states-postal-service/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Weekes v. United States Postal Service", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668306/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2013-1593", 
+            "id": 2641079, 
+            "resource_uri": "/api/rest/v1/citation/2641079/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2013cv1593-9", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668306/", 
+          "id": 2668306, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T06:56:32.023242", 
+          "date_blocked": null, 
+          "judges": "Judge James E. Boasberg", 
+          "sha1": "c392ad03e57fd5588354e6d9855367f7afc057db", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/04/conservation_law_foundation_v._blank.pdf", 
+          "date_modified": "2014-04-04T06:56:43.128355", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eEXB/conservation-law-foundation-v-blank/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Conservation Law Foundation v. Blank", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2667513/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2013-0820", 
+            "id": 2640286, 
+            "resource_uri": "/api/rest/v1/citation/2640286/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2013cv0820-35", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2667513/", 
+          "id": 2667513, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T06:56:33.472885", 
+          "date_blocked": null, 
+          "judges": "Judge James E. Boasberg", 
+          "sha1": "207db25010115d97b7249198a7ecf0b7739a786d", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/04/conservation_law_foundation_v._blank_1.pdf", 
+          "date_modified": "2014-04-04T06:56:42.652254", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eEXC/conservation-law-foundation-v-blank/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Conservation Law Foundation v. Blank", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2667514/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2013-0821", 
+            "id": 2640287, 
+            "resource_uri": "/api/rest/v1/citation/2640287/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2013cv0821-29", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2667514/", 
+          "id": 2667514, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }
+      ], 
+      "court": "DCD"
+    }, 
+    {
+      "decisions": [
+        {
+          "time_retrieved": "2014-04-04T09:07:18.519972", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "27abff925ee2278ed4b903c87b6696e692146e92", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/04/michael_queen_v._ed_schultz.pdf", 
+          "date_modified": "2014-04-04T09:07:23.703258", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eFni/michael-queen-v-ed-schultz/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Michael Queen v. Ed Schultz", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668887/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "12-7099", 
+            "id": 2641660, 
+            "resource_uri": "/api/rest/v1/citation/2641660/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/8DB1C3B139E51C4D85257CB00055B2B4/$file/12-7099-1486971.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668887/", 
+          "id": 2668887, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T09:07:19.381571", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "df9f5652568a6a352852d5807f85ae461295c730", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/04/hani_abdullah_v._barack_obama.pdf", 
+          "date_modified": "2014-04-04T09:07:22.123699", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eFnj/hani-abdullah-v-barack-obama/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Hani Abdullah v. Barack Obama", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668888/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "13-5203", 
+            "id": 2641661, 
+            "resource_uri": "/api/rest/v1/citation/2641661/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/5CD25B41584F067D85257CB00055B2D6/$file/13-5203-1486978.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668888/", 
+          "id": 2668888, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T09:07:17.736263", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "51255f6287bb3608beeed9beca8138127eb3fc43", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/04/united_states_v._reginald_clark.pdf", 
+          "date_modified": "2014-04-04T09:07:21.926046", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eFnh/united-states-v-reginald-clark/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "United States v. Reginald Clark", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668886/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "11-3072", 
+            "id": 2641659, 
+            "resource_uri": "/api/rest/v1/citation/2641659/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/00F72FFDB768FC8485257CB00055B077/$file/11-3072-1486956.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668886/", 
+          "id": 2668886, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T09:07:21.037610", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "db7ce17545ca1a73e0015fa0bf70b8e5e130551f", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/04/american_meat_institute_v._agri.pdf", 
+          "date_modified": "2014-04-04T09:07:21.479457", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eFnm/american-meat-institute-v-agri/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "American Meat Institute v. AGRI", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668890/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "13-5281", 
+            "id": 2641663, 
+            "resource_uri": "/api/rest/v1/citation/2641663/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/F4134076398B370485257CB00055B2F1/$file/13-5281-1487010.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668890/", 
+          "id": 2668890, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T09:07:20.293306", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "e6abd3b00a731558f9b8a66251797d9364cb0d41", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/04/el_paso_natural_gas_company_v._united_states.pdf", 
+          "date_modified": "2014-04-04T09:07:31.838249", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eFnk/el-paso-natural-gas-company-v-united-states/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "El Paso Natural Gas Company v. United States", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668889/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "12-5156", 
+            "id": 2641662, 
+            "resource_uri": "/api/rest/v1/citation/2641662/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/FAD855C3C543012385257CB00055B1FD/$file/12-5156-1486964.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668889/", 
+          "id": 2668889, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }
+      ], 
+      "court": "CADC"
+    }, 
+    {
+      "decisions": [], 
+      "court": "DCCA"
+    }, 
+    {
+      "measures": [
+        {
+          "votes": [], 
+          "documents": [], 
+          "title": "\"PUBLIC CHARTER SCHOOL BOARD ENRIQUE CRUZ CONFIRMATION RESOLUTION OF 2014\".", 
+          "alternate_titles": [], 
+          "created_at": "2014-02-19 01:04:56", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00004915"
+          ], 
+          "actions": [
+            {
+              "date": "2014-02-07 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-18 00:00:00", 
+              "action": "Withdrawn", 
+              "type": [
+                "bill:withdrawn"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000005", 
+              "type": "primary", 
+              "name": "PMendelson"
+            }, 
+            {
+              "leg_id": null, 
+              "official_type": "requestor", 
+              "type": "cosponsor", 
+              "name": "the Mayor", 
+              "committee_id": null
+            }
+          ], 
+          "updated_at": "2014-04-04 00:12:39", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=PR20-0652"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-03-18 00:00:00", 
+            "signed": null, 
+            "first": "2014-02-07 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140218123916.pdf", 
+              "doc_id": "DCD00008150", 
+              "name": "Introduction"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "resolution"
+          ], 
+          "id": "DCB00004915", 
+          "bill_id": "PR 20-0652"
+        }
+      ], 
+      "council": "CDC"
+    }
+  ]
+}

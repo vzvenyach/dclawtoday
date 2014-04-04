@@ -1,0 +1,2820 @@
+{
+  "date": "2014-04-01", 
+  "objects": [
+    {
+      "decisions": [
+        {
+          "time_retrieved": "2014-04-01T07:51:32.346858", 
+          "date_blocked": null, 
+          "judges": "Judge Royce C. Lamberth", 
+          "sha1": "79fafb1fc030330158a98089aaa88df1b52b605a", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/01/electronic_privacy_information_center_v._department_of_justice.pdf", 
+          "date_modified": "2014-04-01T07:51:32.705657", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eCsd/electronic-privacy-information-center-v-department/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Electronic Privacy Information Center v. Department of Justice", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659080/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2006-0096", 
+            "id": 2631853, 
+            "resource_uri": "/api/rest/v1/citation/2631853/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2006cv0096-91", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-01", 
+          "resource_uri": "/api/rest/v1/opinion/2659080/", 
+          "id": 2659080, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-01T12:19:59.442135", 
+          "date_blocked": null, 
+          "judges": "Magistrate Judge John M. Facciola", 
+          "sha1": "4ce152b76ee92a414fb6beda414c8a339427ac0c", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/01/united_states_v._tdc_mgt._corp._inc..pdf", 
+          "date_modified": "2014-04-01T12:20:00.198880", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eCub/united-states-v-tdc-mgt-corp-inc/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "United States v. Tdc Mgt. Corp., Inc.", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659194/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 1989-1533", 
+            "id": 2631967, 
+            "resource_uri": "/api/rest/v1/citation/2631967/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?1989cv1533-273", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-01", 
+          "resource_uri": "/api/rest/v1/opinion/2659194/", 
+          "id": 2659194, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-01T12:52:41.667019", 
+          "date_blocked": null, 
+          "judges": "Chief Judge Richard W. Roberts", 
+          "sha1": "e4c4e4c556d6e7174ac7dd3e4a2163fc4ae7328d", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/01/amiri_v._securitas_security_services_usa_inc..pdf", 
+          "date_modified": "2014-04-01T12:52:45.479402", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eCuv/amiri-v-securitas-security-services-usa-inc/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Amiri v. Securitas Security Services USA, Inc.", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659213/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2012-2047", 
+            "id": 2631986, 
+            "resource_uri": "/api/rest/v1/citation/2631986/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2012cv2047-22", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-01", 
+          "resource_uri": "/api/rest/v1/opinion/2659213/", 
+          "id": 2659213, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-01T13:27:35.033820", 
+          "date_blocked": null, 
+          "judges": "Judge Reggie B. Walton", 
+          "sha1": "3d2503f950929bc0112ec14508ef169bc06d3f77", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/01/miles_v._united_states_attorneys_office.pdf", 
+          "date_modified": "2014-04-01T13:27:35.163185", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eCuF/miles-v-united-states-attorneys-office/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Miles v. United States Attorney's Office", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659223/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2014-0205", 
+            "id": 2631996, 
+            "resource_uri": "/api/rest/v1/citation/2631996/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2014cv0205-7", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-01", 
+          "resource_uri": "/api/rest/v1/opinion/2659223/", 
+          "id": 2659223, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-01T15:39:22.738539", 
+          "date_blocked": null, 
+          "judges": "Judge Emmet G. Sullivan", 
+          "sha1": "c1e3e530f18d07666a86bd5b4b2b8a68e1e2b32b", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/01/rowland_v._united_states_supreme_court.pdf", 
+          "date_modified": "2014-04-01T15:39:22.974819", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eCuR/rowland-v-united-states-supreme-court/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Rowland v. United States Supreme Court", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659233/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2014-0031", 
+            "id": 2632006, 
+            "resource_uri": "/api/rest/v1/citation/2632006/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2014cv0031-8", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-01", 
+          "resource_uri": "/api/rest/v1/opinion/2659233/", 
+          "id": 2659233, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-02T12:57:48.941864", 
+          "date_blocked": null, 
+          "judges": "Magistrate Judge John M. Facciola", 
+          "sha1": "5a49523e19aecf9135b768bf3b4c40863c4d0597", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/02/brighthaupt_v._district_of_columbia.pdf", 
+          "date_modified": "2014-04-02T12:57:49.913605", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eCw6/brighthaupt-v-district-of-columbia/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Brighthaupt v. District of Columbia", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659305/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2013-1294", 
+            "id": 2632078, 
+            "resource_uri": "/api/rest/v1/citation/2632078/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2013cv1294-22-3", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-02", 
+          "resource_uri": "/api/rest/v1/opinion/2659305/", 
+          "id": 2659305, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-02T12:57:47.634792", 
+          "date_blocked": null, 
+          "judges": "Judge Reggie B. Walton", 
+          "sha1": "78b241169f17438dc13d9ba41216076b02738927", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/02/pintro_v._genachowski.pdf", 
+          "date_modified": "2014-04-02T12:57:51.080575", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eCw5/pintro-v-genachowski/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Pintro v. Genachowski", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659304/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2013-0231", 
+            "id": 2632077, 
+            "resource_uri": "/api/rest/v1/citation/2632077/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2013cv0231-14", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-02", 
+          "resource_uri": "/api/rest/v1/opinion/2659304/", 
+          "id": 2659304, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-02T12:57:46.575257", 
+          "date_blocked": null, 
+          "judges": "Judge Beryl A. Howell", 
+          "sha1": "bba46aae8e5df6c7ba3e51c6cc3fe16c784e50b0", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/02/slate_v._public_defender_service_for_the_district_of_columbia.pdf", 
+          "date_modified": "2014-04-02T12:58:13.886629", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eCw4/slate-v-public-defender-service-for-the-district-o/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Slate v. Public Defender Service for the District of Columbia", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659303/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2013-0798", 
+            "id": 2632076, 
+            "resource_uri": "/api/rest/v1/citation/2632076/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2013cv0798-31", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-02", 
+          "resource_uri": "/api/rest/v1/opinion/2659303/", 
+          "id": 2659303, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-02T12:57:44.800209", 
+          "date_blocked": null, 
+          "judges": "Judge Ellen S. Huvelle", 
+          "sha1": "76b6fc3e8c8155eb184ffd0fbd27983219fe826b", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/02/united_states_v._graham.pdf", 
+          "date_modified": "2014-04-02T12:57:44.886812", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eCw3/united-states-v-graham/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "United States v. Graham", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659302/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Criminal No. 2014-0034", 
+            "id": 2632075, 
+            "resource_uri": "/api/rest/v1/citation/2632075/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2014cr0034-13", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-02", 
+          "resource_uri": "/api/rest/v1/opinion/2659302/", 
+          "id": 2659302, 
+          "nature_of_suit": "Criminal", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-02T15:07:44.027744", 
+          "date_blocked": null, 
+          "judges": "Judge Royce C. Lamberth", 
+          "sha1": "4adc128678b6089d552bf15246d8db29ac94b473", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/02/nesbitt_v._holder.pdf", 
+          "date_modified": "2014-04-02T15:07:45.759648", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eCxm/nesbitt-v-holder/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Nesbitt v. Holder", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659378/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2012-0717", 
+            "id": 2632151, 
+            "resource_uri": "/api/rest/v1/citation/2632151/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2012cv0717-42", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-02", 
+          "resource_uri": "/api/rest/v1/opinion/2659378/", 
+          "id": 2659378, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-03T08:31:54.007964", 
+          "date_blocked": null, 
+          "judges": "Judge Colleen Kollar-Kotelly", 
+          "sha1": "2621c45e8966d9e32b8c72c08a77958c74f202ce", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/03/covad_communications_company_v._revonet_inc.pdf", 
+          "date_modified": "2014-04-03T08:31:54.739413", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eDEM/covad-communications-company-v-revonet-inc/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Covad Communications Company v. Revonet Inc", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2663173/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2006-1892", 
+            "id": 2635946, 
+            "resource_uri": "/api/rest/v1/citation/2635946/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2006cv1892-214", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-03", 
+          "resource_uri": "/api/rest/v1/opinion/2663173/", 
+          "id": 2663173, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T06:56:33.472885", 
+          "date_blocked": null, 
+          "judges": "Judge James E. Boasberg", 
+          "sha1": "207db25010115d97b7249198a7ecf0b7739a786d", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/04/conservation_law_foundation_v._blank_1.pdf", 
+          "date_modified": "2014-04-04T06:56:42.652254", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eEXC/conservation-law-foundation-v-blank/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Conservation Law Foundation v. Blank", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2667514/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2013-0821", 
+            "id": 2640287, 
+            "resource_uri": "/api/rest/v1/citation/2640287/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2013cv0821-29", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2667514/", 
+          "id": 2667514, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T06:56:32.023242", 
+          "date_blocked": null, 
+          "judges": "Judge James E. Boasberg", 
+          "sha1": "c392ad03e57fd5588354e6d9855367f7afc057db", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/04/conservation_law_foundation_v._blank.pdf", 
+          "date_modified": "2014-04-04T06:56:43.128355", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eEXB/conservation-law-foundation-v-blank/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Conservation Law Foundation v. Blank", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2667513/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2013-0820", 
+            "id": 2640286, 
+            "resource_uri": "/api/rest/v1/citation/2640286/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2013cv0820-35", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2667513/", 
+          "id": 2667513, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T08:01:35.173360", 
+          "date_blocked": null, 
+          "judges": "Judge Rosemary M. Collyer", 
+          "sha1": "a25ff06d37eed57f9a9c755c2de4652b643545a9", 
+          "court": "/api/rest/v1/jurisdiction/dcd/", 
+          "local_path": "pdf/2014/04/04/weekes_v._united_states_postal_service.pdf", 
+          "date_modified": "2014-04-04T08:02:08.416571", 
+          "precedential_status": "Published", 
+          "absolute_url": "/dcd/eFch/weekes-v-united-states-postal-service/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Weekes v. United States Postal Service", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668306/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "Civil Action No. 2013-1593", 
+            "id": 2641079, 
+            "resource_uri": "/api/rest/v1/citation/2641079/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2013cv1593-9", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668306/", 
+          "id": 2668306, 
+          "nature_of_suit": "Civil", 
+          "blocked": false
+        }
+      ], 
+      "court": "DCD"
+    }, 
+    {
+      "decisions": [
+        {
+          "time_retrieved": "2014-04-01T07:49:50.238430", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "78743a33a7ed26b1fa81649439faf56c4c6998de", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/01/united_states_v._anthony_rice.pdf", 
+          "date_modified": "2014-04-01T07:49:53.285120", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eCs9/united-states-v-anthony-rice/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "United States v. Anthony Rice", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659076/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "06-3166", 
+            "id": 2631849, 
+            "resource_uri": "/api/rest/v1/citation/2631849/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/296B4192D19E67C885257CAD00509ECE/$file/06-3166-1486389.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-01", 
+          "resource_uri": "/api/rest/v1/opinion/2659076/", 
+          "id": 2659076, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-01T07:49:50.963625", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "345a1f4c2fa28af9794faa90f8970b7cd3ab7343", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/01/michael_bregman_v._steven_perles.pdf", 
+          "date_modified": "2014-04-01T07:49:54.609429", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eCsa/michael-bregman-v-steven-perles/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Michael Bregman v. Steven Perles", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659077/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "12-7091", 
+            "id": 2631850, 
+            "resource_uri": "/api/rest/v1/citation/2631850/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/40CFC8DE3F98B8ED85257CAD00509F10/$file/12-7091-1486402.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-01", 
+          "resource_uri": "/api/rest/v1/opinion/2659077/", 
+          "id": 2659077, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-01T07:49:52.423571", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "7a23b0e0bb8567011e2fecb15f8beaf21854803e", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/01/allina_health_services_v._kathleen_sebelius.pdf", 
+          "date_modified": "2014-04-01T07:49:56.373857", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eCsc/allina-health-services-v-kathleen-sebelius/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Allina Health Services v. Kathleen Sebelius", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659079/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "13-5011", 
+            "id": 2631852, 
+            "resource_uri": "/api/rest/v1/citation/2631852/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/933D4031BE2DF13985257CAD00509F24/$file/13-5011-1486407.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-01", 
+          "resource_uri": "/api/rest/v1/opinion/2659079/", 
+          "id": 2659079, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-01T07:49:51.755011", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "6edd393cbb5ac69f67bfbc3b7f30f6a326d46b7c", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/01/citizens_for_responsibility_v._department_of_justice.pdf", 
+          "date_modified": "2014-04-01T07:50:05.861896", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eCsb/citizens-for-responsibility-v-department-of-justic/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Citizens for Responsibility v. Department of Justice", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2659078/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "12-5223", 
+            "id": 2631851, 
+            "resource_uri": "/api/rest/v1/citation/2631851/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/79DE023DA57153E885257CAD00509EF7/$file/12-5223-1486393.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-01", 
+          "resource_uri": "/api/rest/v1/opinion/2659078/", 
+          "id": 2659078, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T09:07:17.736263", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "51255f6287bb3608beeed9beca8138127eb3fc43", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/04/united_states_v._reginald_clark.pdf", 
+          "date_modified": "2014-04-04T09:07:21.926046", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eFnh/united-states-v-reginald-clark/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "United States v. Reginald Clark", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668886/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "11-3072", 
+            "id": 2641659, 
+            "resource_uri": "/api/rest/v1/citation/2641659/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/00F72FFDB768FC8485257CB00055B077/$file/11-3072-1486956.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668886/", 
+          "id": 2668886, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T09:07:19.381571", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "df9f5652568a6a352852d5807f85ae461295c730", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/04/hani_abdullah_v._barack_obama.pdf", 
+          "date_modified": "2014-04-04T09:07:22.123699", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eFnj/hani-abdullah-v-barack-obama/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Hani Abdullah v. Barack Obama", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668888/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "13-5203", 
+            "id": 2641661, 
+            "resource_uri": "/api/rest/v1/citation/2641661/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/5CD25B41584F067D85257CB00055B2D6/$file/13-5203-1486978.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668888/", 
+          "id": 2668888, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T09:07:18.519972", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "27abff925ee2278ed4b903c87b6696e692146e92", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/04/michael_queen_v._ed_schultz.pdf", 
+          "date_modified": "2014-04-04T09:07:23.703258", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eFni/michael-queen-v-ed-schultz/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "Michael Queen v. Ed Schultz", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668887/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "12-7099", 
+            "id": 2641660, 
+            "resource_uri": "/api/rest/v1/citation/2641660/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/8DB1C3B139E51C4D85257CB00055B2B4/$file/12-7099-1486971.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668887/", 
+          "id": 2668887, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T09:07:21.037610", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "db7ce17545ca1a73e0015fa0bf70b8e5e130551f", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/04/american_meat_institute_v._agri.pdf", 
+          "date_modified": "2014-04-04T09:07:21.479457", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eFnm/american-meat-institute-v-agri/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "American Meat Institute v. AGRI", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668890/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "13-5281", 
+            "id": 2641663, 
+            "resource_uri": "/api/rest/v1/citation/2641663/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/F4134076398B370485257CB00055B2F1/$file/13-5281-1487010.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668890/", 
+          "id": 2668890, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }, 
+        {
+          "time_retrieved": "2014-04-04T09:07:20.293306", 
+          "date_blocked": null, 
+          "judges": "", 
+          "sha1": "e6abd3b00a731558f9b8a66251797d9364cb0d41", 
+          "court": "/api/rest/v1/jurisdiction/cadc/", 
+          "local_path": "pdf/2014/04/04/el_paso_natural_gas_company_v._united_states.pdf", 
+          "date_modified": "2014-04-04T09:07:31.838249", 
+          "precedential_status": "Published", 
+          "absolute_url": "/cadc/eFnk/el-paso-natural-gas-company-v-united-states/", 
+          "citation": {
+            "state_cite_three": null, 
+            "federal_cite_one": null, 
+            "federal_cite_two": null, 
+            "specialty_cite_one": null, 
+            "federal_cite_three": null, 
+            "lexis_cite": null, 
+            "scotus_early_cite": null, 
+            "case_name": "El Paso Natural Gas Company v. United States", 
+            "opinion_uris": [
+              "/api/rest/v1/opinion/2668889/"
+            ], 
+            "westlaw_cite": null, 
+            "state_cite_one": null, 
+            "neutral_cite": null, 
+            "state_cite_regional": null, 
+            "state_cite_two": null, 
+            "docket_number": "12-5156", 
+            "id": 2641662, 
+            "resource_uri": "/api/rest/v1/citation/2641662/"
+          }, 
+          "citation_count": 0, 
+          "download_url": "http://www.cadc.uscourts.gov/internet/opinions.nsf/0/FAD855C3C543012385257CB00055B1FD/$file/12-5156-1486964.pdf", 
+          "source": "C", 
+          "extracted_by_ocr": false, 
+          "date_filed": "2014-04-04", 
+          "resource_uri": "/api/rest/v1/opinion/2668889/", 
+          "id": 2668889, 
+          "nature_of_suit": "", 
+          "blocked": false
+        }
+      ], 
+      "court": "CADC"
+    }, 
+    {
+      "decisions": [], 
+      "court": "DCCA"
+    }, 
+    {
+      "measures": [
+        {
+          "votes": [], 
+          "documents": [], 
+          "title": "\"PROPOSED CONTRACT WITH DC PARTNERS FOR THE REVITALIZATION OF EDUCATION PROJECTS FOR (\"DCPEP\")$9,421,025.61\".", 
+          "alternate_titles": [], 
+          "created_at": "2014-04-02 00:34:32", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00005056"
+          ], 
+          "actions": [
+            {
+              "date": "2014-04-01 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000005", 
+              "type": "primary", 
+              "name": "PMendelson"
+            }, 
+            {
+              "leg_id": null, 
+              "official_type": "requestor", 
+              "type": "cosponsor", 
+              "name": "the Mayor", 
+              "committee_id": null
+            }
+          ], 
+          "updated_at": "2014-04-02 00:34:32", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=CA20-0290"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-04-01 00:00:00", 
+            "signed": null, 
+            "first": "2014-04-01 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140401155523.pdf", 
+              "doc_id": "DCD00008385", 
+              "name": "Introduction"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "contract"
+          ], 
+          "id": "DCB00005056", 
+          "bill_id": "CA 20-0290"
+        }, 
+        {
+          "votes": [
+            {
+              "other_count": 1, 
+              "other_votes": [
+                {
+                  "leg_id": "DCL000012", 
+                  "name": "Marion Barry"
+                }
+              ], 
+              "yes_count": 10, 
+              "yes_votes": [
+                {
+                  "leg_id": "DCL000010", 
+                  "name": "Yvette Alexander"
+                }, 
+                {
+                  "leg_id": "DCL000021", 
+                  "name": "Anita Bonds"
+                }, 
+                {
+                  "leg_id": "DCL000011", 
+                  "name": "Muriel Bowser"
+                }, 
+                {
+                  "leg_id": "DCL000003", 
+                  "name": "David Catania"
+                }, 
+                {
+                  "leg_id": "DCL000002", 
+                  "name": "Mary M. Cheh"
+                }, 
+                {
+                  "leg_id": "DCL000009", 
+                  "name": "Jack Evans"
+                }, 
+                {
+                  "leg_id": "DCL000007", 
+                  "name": "Jim Graham"
+                }, 
+                {
+                  "leg_id": "DCL000017", 
+                  "name": "Kenyan McDuffie"
+                }, 
+                {
+                  "leg_id": "DCL000014", 
+                  "name": "Vincent Orange"
+                }, 
+                {
+                  "leg_id": "DCL000008", 
+                  "name": "Tommy Wells"
+                }
+              ], 
+              "+voice_vote": true, 
+              "no_count": 2, 
+              "motion": "Final Reading", 
+              "chamber": "upper", 
+              "state": "dc", 
+              "session": "20", 
+              "sources": [
+                {
+                  "url": "http://dcclims1.dccouncil.us/lims/voting.aspx?VoteTypeID=2&LegID=B20-0318"
+                }
+              ], 
+              "passed": true, 
+              "date": "2014-03-04 00:00:00", 
+              "vote_id": "DCV00003232", 
+              "type": "other", 
+              "id": "DCV00003232", 
+              "bill_id": "DCB00003927", 
+              "no_votes": [
+                {
+                  "leg_id": "DCL000020", 
+                  "name": "David Grosso"
+                }, 
+                {
+                  "leg_id": "DCL000005", 
+                  "name": "Phil PMendelson"
+                }
+              ]
+            }, 
+            {
+              "other_count": 1, 
+              "other_votes": [
+                {
+                  "leg_id": "DCL000012", 
+                  "name": "Marion Barry"
+                }
+              ], 
+              "yes_count": 12, 
+              "yes_votes": [
+                {
+                  "leg_id": "DCL000010", 
+                  "name": "Yvette Alexander"
+                }, 
+                {
+                  "leg_id": "DCL000021", 
+                  "name": "Anita Bonds"
+                }, 
+                {
+                  "leg_id": "DCL000011", 
+                  "name": "Muriel Bowser"
+                }, 
+                {
+                  "leg_id": "DCL000003", 
+                  "name": "David Catania"
+                }, 
+                {
+                  "leg_id": "DCL000002", 
+                  "name": "Mary M. Cheh"
+                }, 
+                {
+                  "leg_id": "DCL000009", 
+                  "name": "Jack Evans"
+                }, 
+                {
+                  "leg_id": "DCL000007", 
+                  "name": "Jim Graham"
+                }, 
+                {
+                  "leg_id": "DCL000020", 
+                  "name": "David Grosso"
+                }, 
+                {
+                  "leg_id": "DCL000017", 
+                  "name": "Kenyan McDuffie"
+                }, 
+                {
+                  "leg_id": "DCL000014", 
+                  "name": "Vincent Orange"
+                }, 
+                {
+                  "leg_id": "DCL000005", 
+                  "name": "Phil PMendelson"
+                }, 
+                {
+                  "leg_id": "DCL000008", 
+                  "name": "Tommy Wells"
+                }
+              ], 
+              "+voice_vote": true, 
+              "no_count": 0, 
+              "motion": "1st Reading", 
+              "chamber": "upper", 
+              "state": "dc", 
+              "session": "20", 
+              "sources": [
+                {
+                  "url": "http://dcclims1.dccouncil.us/lims/voting.aspx?VoteTypeID=1&LegID=B20-0318"
+                }
+              ], 
+              "passed": true, 
+              "date": "2014-01-07 00:00:00", 
+              "vote_id": "DCV00003257", 
+              "type": "other", 
+              "id": "DCV00003257", 
+              "bill_id": "DCB00003927", 
+              "no_votes": []
+            }
+          ], 
+          "documents": [], 
+          "title": "\"SENIOR CITIZEN REAL PROPERTY TAX RELIEF ACT OF 2013\".", 
+          "alternate_titles": [], 
+          "created_at": "2013-06-06 04:03:29", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00003927"
+          ], 
+          "actions": [
+            {
+              "date": "2013-06-04 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2013-12-16 00:00:00", 
+              "action": "Committee Action", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-01-07 00:00:00", 
+              "action": "First Vote", 
+              "type": [
+                "bill:reading:1"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-04 00:00:00", 
+              "action": "Final Vote", 
+              "type": [
+                "bill:reading:3"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-19 00:00:00", 
+              "action": "Transmitted to Mayor", 
+              "type": [
+                "governor:received"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-25 00:00:00", 
+              "action": "Signed by Mayor", 
+              "type": [
+                "governor:signed"
+              ], 
+              "related_entities": [], 
+              "actor": "mayor"
+            }, 
+            {
+              "date": "2014-03-25 00:00:00", 
+              "action": "Returned by Mayor", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "mayor"
+            }, 
+            {
+              "date": "2014-03-25 00:00:00", 
+              "action": "Enacted", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-04-01 00:00:00", 
+              "action": "Transmitted to Congress", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000021", 
+              "type": "primary", 
+              "name": "Bonds"
+            }, 
+            {
+              "leg_id": "DCL000014", 
+              "type": "primary", 
+              "name": "Orange"
+            }, 
+            {
+              "leg_id": "DCL000010", 
+              "type": "primary", 
+              "name": "Alexander"
+            }, 
+            {
+              "leg_id": "DCL000017", 
+              "type": "primary", 
+              "name": "McDuffie"
+            }, 
+            {
+              "leg_id": "DCL000002", 
+              "type": "primary", 
+              "name": "Cheh"
+            }, 
+            {
+              "leg_id": "DCL000009", 
+              "type": "primary", 
+              "name": "Evans"
+            }, 
+            {
+              "leg_id": "DCL000012", 
+              "type": "primary", 
+              "name": "Barry"
+            }, 
+            {
+              "leg_id": "DCL000007", 
+              "type": "primary", 
+              "name": "Graham"
+            }, 
+            {
+              "leg_id": "DCL000020", 
+              "type": "primary", 
+              "name": "Grosso"
+            }, 
+            {
+              "leg_id": "DCL000011", 
+              "type": "primary", 
+              "name": "Bowser"
+            }
+          ], 
+          "updated_at": "2014-04-02 00:34:42", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=B20-0318"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-04-01 00:00:00", 
+            "signed": "2014-03-25 00:00:00", 
+            "first": "2013-06-04 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20130606120148.pdf", 
+              "doc_id": "DCD00006302", 
+              "name": "Introduction"
+            }, 
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140127174700.pdf", 
+              "doc_id": "DCD00007995", 
+              "name": "Committee Report"
+            }, 
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140108151026.pdf", 
+              "doc_id": "DCD00007780", 
+              "name": "Engrossment"
+            }, 
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140319122805.pdf", 
+              "doc_id": "DCD00008324", 
+              "name": "Enrollment"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "bill"
+          ], 
+          "id": "DCB00003927", 
+          "bill_id": "B 20-0318"
+        }, 
+        {
+          "votes": [
+            {
+              "other_count": 1, 
+              "other_votes": [
+                {
+                  "leg_id": "DCL000012", 
+                  "name": "Marion Barry"
+                }
+              ], 
+              "yes_count": 12, 
+              "yes_votes": [
+                {
+                  "leg_id": "DCL000010", 
+                  "name": "Yvette Alexander"
+                }, 
+                {
+                  "leg_id": "DCL000021", 
+                  "name": "Anita Bonds"
+                }, 
+                {
+                  "leg_id": "DCL000011", 
+                  "name": "Muriel Bowser"
+                }, 
+                {
+                  "leg_id": "DCL000003", 
+                  "name": "David Catania"
+                }, 
+                {
+                  "leg_id": "DCL000002", 
+                  "name": "Mary M. Cheh"
+                }, 
+                {
+                  "leg_id": "DCL000009", 
+                  "name": "Jack Evans"
+                }, 
+                {
+                  "leg_id": "DCL000007", 
+                  "name": "Jim Graham"
+                }, 
+                {
+                  "leg_id": "DCL000020", 
+                  "name": "David Grosso"
+                }, 
+                {
+                  "leg_id": "DCL000017", 
+                  "name": "Kenyan McDuffie"
+                }, 
+                {
+                  "leg_id": "DCL000014", 
+                  "name": "Vincent Orange"
+                }, 
+                {
+                  "leg_id": "DCL000005", 
+                  "name": "Phil PMendelson"
+                }, 
+                {
+                  "leg_id": "DCL000008", 
+                  "name": "Tommy Wells"
+                }
+              ], 
+              "+voice_vote": true, 
+              "no_count": 0, 
+              "motion": "Final Reading", 
+              "chamber": "upper", 
+              "state": "dc", 
+              "session": "20", 
+              "sources": [
+                {
+                  "url": "http://dcclims1.dccouncil.us/lims/voting.aspx?VoteTypeID=2&LegID=B20-0110"
+                }
+              ], 
+              "passed": true, 
+              "date": "2014-03-04 00:00:00", 
+              "vote_id": "DCV00003212", 
+              "type": "other", 
+              "id": "DCV00003212", 
+              "bill_id": "DCB00003360", 
+              "no_votes": []
+            }, 
+            {
+              "other_count": 1, 
+              "other_votes": [
+                {
+                  "leg_id": "DCL000012", 
+                  "name": "Marion Barry"
+                }
+              ], 
+              "yes_count": 12, 
+              "yes_votes": [
+                {
+                  "leg_id": "DCL000010", 
+                  "name": "Yvette Alexander"
+                }, 
+                {
+                  "leg_id": "DCL000021", 
+                  "name": "Anita Bonds"
+                }, 
+                {
+                  "leg_id": "DCL000011", 
+                  "name": "Muriel Bowser"
+                }, 
+                {
+                  "leg_id": "DCL000003", 
+                  "name": "David Catania"
+                }, 
+                {
+                  "leg_id": "DCL000002", 
+                  "name": "Mary M. Cheh"
+                }, 
+                {
+                  "leg_id": "DCL000009", 
+                  "name": "Jack Evans"
+                }, 
+                {
+                  "leg_id": "DCL000007", 
+                  "name": "Jim Graham"
+                }, 
+                {
+                  "leg_id": "DCL000020", 
+                  "name": "David Grosso"
+                }, 
+                {
+                  "leg_id": "DCL000017", 
+                  "name": "Kenyan McDuffie"
+                }, 
+                {
+                  "leg_id": "DCL000014", 
+                  "name": "Vincent Orange"
+                }, 
+                {
+                  "leg_id": "DCL000005", 
+                  "name": "Phil PMendelson"
+                }, 
+                {
+                  "leg_id": "DCL000008", 
+                  "name": "Tommy Wells"
+                }
+              ], 
+              "+voice_vote": true, 
+              "no_count": 0, 
+              "motion": "1st Reading", 
+              "chamber": "upper", 
+              "state": "dc", 
+              "session": "20", 
+              "sources": [
+                {
+                  "url": "http://dcclims1.dccouncil.us/lims/voting.aspx?VoteTypeID=1&LegID=B20-0110"
+                }
+              ], 
+              "passed": true, 
+              "date": "2014-02-04 00:00:00", 
+              "vote_id": "DCV00003164", 
+              "type": "other", 
+              "id": "DCV00003164", 
+              "bill_id": "DCB00003360", 
+              "no_votes": []
+            }
+          ], 
+          "documents": [], 
+          "title": "\"BELMONT PARK DESIGNATION AND ESTABLISHMENT ACT OF 2013\".", 
+          "alternate_titles": [], 
+          "created_at": "2013-02-07 01:29:16", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00003360"
+          ], 
+          "actions": [
+            {
+              "date": "2013-02-05 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-02-04 00:00:00", 
+              "action": "First Vote", 
+              "type": [
+                "bill:reading:1"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-04 00:00:00", 
+              "action": "Final Vote", 
+              "type": [
+                "bill:reading:3"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-19 00:00:00", 
+              "action": "Transmitted to Mayor", 
+              "type": [
+                "governor:received"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-31 00:00:00", 
+              "action": "Signed by Mayor", 
+              "type": [
+                "governor:signed"
+              ], 
+              "related_entities": [], 
+              "actor": "mayor"
+            }, 
+            {
+              "date": "2014-03-31 00:00:00", 
+              "action": "Returned by Mayor", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "mayor"
+            }, 
+            {
+              "date": "2014-03-31 00:00:00", 
+              "action": "Enacted", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000003", 
+              "type": "primary", 
+              "name": "Catania"
+            }, 
+            {
+              "leg_id": "DCL000009", 
+              "type": "primary", 
+              "name": "Evans"
+            }, 
+            {
+              "leg_id": "DCL000002", 
+              "type": "primary", 
+              "name": "Cheh"
+            }, 
+            {
+              "leg_id": "DCL000011", 
+              "type": "cosponsor", 
+              "name": "Bowser"
+            }, 
+            {
+              "leg_id": "DCL000008", 
+              "type": "cosponsor", 
+              "name": "Wells"
+            }, 
+            {
+              "leg_id": "DCL000020", 
+              "type": "cosponsor", 
+              "name": "Grosso"
+            }
+          ], 
+          "updated_at": "2014-04-02 00:34:39", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=B20-0110"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-03-31 00:00:00", 
+            "signed": "2014-03-31 00:00:00", 
+            "first": "2013-02-05 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20130207140112.pdf", 
+              "doc_id": "DCD00005439", 
+              "name": "Introduction"
+            }, 
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140221132959.pdf", 
+              "doc_id": "DCD00008165", 
+              "name": "Engrossment"
+            }, 
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140310164642.pdf", 
+              "doc_id": "DCD00008298", 
+              "name": "Enrollment"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "bill"
+          ], 
+          "id": "DCB00003360", 
+          "bill_id": "B 20-0110"
+        }, 
+        {
+          "votes": [
+            {
+              "other_count": 1, 
+              "other_votes": [
+                {
+                  "leg_id": "DCL000012", 
+                  "name": "Marion Barry"
+                }
+              ], 
+              "yes_count": 12, 
+              "yes_votes": [
+                {
+                  "leg_id": "DCL000010", 
+                  "name": "Yvette Alexander"
+                }, 
+                {
+                  "leg_id": "DCL000021", 
+                  "name": "Anita Bonds"
+                }, 
+                {
+                  "leg_id": "DCL000011", 
+                  "name": "Muriel Bowser"
+                }, 
+                {
+                  "leg_id": "DCL000003", 
+                  "name": "David Catania"
+                }, 
+                {
+                  "leg_id": "DCL000002", 
+                  "name": "Mary M. Cheh"
+                }, 
+                {
+                  "leg_id": "DCL000009", 
+                  "name": "Jack Evans"
+                }, 
+                {
+                  "leg_id": "DCL000007", 
+                  "name": "Jim Graham"
+                }, 
+                {
+                  "leg_id": "DCL000020", 
+                  "name": "David Grosso"
+                }, 
+                {
+                  "leg_id": "DCL000017", 
+                  "name": "Kenyan McDuffie"
+                }, 
+                {
+                  "leg_id": "DCL000014", 
+                  "name": "Vincent Orange"
+                }, 
+                {
+                  "leg_id": "DCL000005", 
+                  "name": "Phil PMendelson"
+                }, 
+                {
+                  "leg_id": "DCL000008", 
+                  "name": "Tommy Wells"
+                }
+              ], 
+              "+voice_vote": true, 
+              "no_count": 0, 
+              "motion": "Final Reading", 
+              "chamber": "upper", 
+              "state": "dc", 
+              "session": "20", 
+              "sources": [
+                {
+                  "url": "http://dcclims1.dccouncil.us/lims/voting.aspx?VoteTypeID=2&LegID=B20-0528"
+                }
+              ], 
+              "passed": true, 
+              "date": "2014-03-04 00:00:00", 
+              "vote_id": "DCV00003217", 
+              "type": "other", 
+              "id": "DCV00003217", 
+              "bill_id": "DCB00004467", 
+              "no_votes": []
+            }, 
+            {
+              "other_count": 1, 
+              "other_votes": [
+                {
+                  "leg_id": "DCL000012", 
+                  "name": "Marion Barry"
+                }
+              ], 
+              "yes_count": 12, 
+              "yes_votes": [
+                {
+                  "leg_id": "DCL000010", 
+                  "name": "Yvette Alexander"
+                }, 
+                {
+                  "leg_id": "DCL000021", 
+                  "name": "Anita Bonds"
+                }, 
+                {
+                  "leg_id": "DCL000011", 
+                  "name": "Muriel Bowser"
+                }, 
+                {
+                  "leg_id": "DCL000003", 
+                  "name": "David Catania"
+                }, 
+                {
+                  "leg_id": "DCL000002", 
+                  "name": "Mary M. Cheh"
+                }, 
+                {
+                  "leg_id": "DCL000009", 
+                  "name": "Jack Evans"
+                }, 
+                {
+                  "leg_id": "DCL000007", 
+                  "name": "Jim Graham"
+                }, 
+                {
+                  "leg_id": "DCL000020", 
+                  "name": "David Grosso"
+                }, 
+                {
+                  "leg_id": "DCL000017", 
+                  "name": "Kenyan McDuffie"
+                }, 
+                {
+                  "leg_id": "DCL000014", 
+                  "name": "Vincent Orange"
+                }, 
+                {
+                  "leg_id": "DCL000005", 
+                  "name": "Phil PMendelson"
+                }, 
+                {
+                  "leg_id": "DCL000008", 
+                  "name": "Tommy Wells"
+                }
+              ], 
+              "+voice_vote": true, 
+              "no_count": 0, 
+              "motion": "1st Reading", 
+              "chamber": "upper", 
+              "state": "dc", 
+              "session": "20", 
+              "sources": [
+                {
+                  "url": "http://dcclims1.dccouncil.us/lims/voting.aspx?VoteTypeID=1&LegID=B20-0528"
+                }
+              ], 
+              "passed": true, 
+              "date": "2014-02-04 00:00:00", 
+              "vote_id": "DCV00003205", 
+              "type": "other", 
+              "id": "DCV00003205", 
+              "bill_id": "DCB00004467", 
+              "no_votes": []
+            }
+          ], 
+          "documents": [], 
+          "title": "\"D.C. PROMISE ESTABLISHMENT ACT OF 2013\".", 
+          "alternate_titles": [], 
+          "created_at": "2013-10-16 04:11:28", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00004467"
+          ], 
+          "actions": [
+            {
+              "date": "2013-10-15 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2013-12-11 00:00:00", 
+              "action": "Committee Action", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-02-04 00:00:00", 
+              "action": "First Vote", 
+              "type": [
+                "bill:reading:1"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-04 00:00:00", 
+              "action": "Final Vote", 
+              "type": [
+                "bill:reading:3"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-19 00:00:00", 
+              "action": "Transmitted to Mayor", 
+              "type": [
+                "governor:received"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-31 00:00:00", 
+              "action": "Signed by Mayor", 
+              "type": [
+                "governor:signed"
+              ], 
+              "related_entities": [], 
+              "actor": "mayor"
+            }, 
+            {
+              "date": "2014-03-31 00:00:00", 
+              "action": "Returned by Mayor", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "mayor"
+            }, 
+            {
+              "date": "2014-03-31 00:00:00", 
+              "action": "Enacted", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000003", 
+              "type": "primary", 
+              "name": "Catania"
+            }, 
+            {
+              "leg_id": "DCL000012", 
+              "type": "primary", 
+              "name": "Barry"
+            }, 
+            {
+              "leg_id": "DCL000010", 
+              "type": "primary", 
+              "name": "Alexander"
+            }, 
+            {
+              "leg_id": "DCL000009", 
+              "type": "primary", 
+              "name": "Evans"
+            }, 
+            {
+              "leg_id": "DCL000021", 
+              "type": "primary", 
+              "name": "Bonds"
+            }, 
+            {
+              "leg_id": "DCL000002", 
+              "type": "primary", 
+              "name": "Cheh"
+            }, 
+            {
+              "leg_id": "DCL000020", 
+              "type": "primary", 
+              "name": "Grosso"
+            }, 
+            {
+              "leg_id": "DCL000017", 
+              "type": "primary", 
+              "name": "McDuffie"
+            }, 
+            {
+              "leg_id": "DCL000008", 
+              "type": "primary", 
+              "name": "Wells"
+            }, 
+            {
+              "leg_id": "DCL000005", 
+              "type": "primary", 
+              "name": "PMendelson"
+            }
+          ], 
+          "updated_at": "2014-04-02 00:34:50", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=B20-0528"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-03-31 00:00:00", 
+            "signed": "2014-03-31 00:00:00", 
+            "first": "2013-10-15 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20131016111816.pdf", 
+              "doc_id": "DCD00007306", 
+              "name": "Introduction"
+            }, 
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140127180822.pdf", 
+              "doc_id": "DCD00008013", 
+              "name": "Committee Report"
+            }, 
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140221151222.pdf", 
+              "doc_id": "DCD00008188", 
+              "name": "Engrossment"
+            }, 
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140307131554.pdf", 
+              "doc_id": "DCD00008296", 
+              "name": "Enrollment"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "bill"
+          ], 
+          "id": "DCB00004467", 
+          "bill_id": "B 20-0528"
+        }, 
+        {
+          "votes": [], 
+          "documents": [], 
+          "title": "\"AFFORDABLE HOUSING PRESERVATION EMERGENCY AMENDMENT ACT OF 2014\".", 
+          "alternate_titles": [], 
+          "created_at": "2014-04-02 00:34:41", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00005059"
+          ], 
+          "actions": [
+            {
+              "date": "2014-03-27 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000012", 
+              "type": "primary", 
+              "name": "Barry"
+            }
+          ], 
+          "updated_at": "2014-04-02 00:34:41", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=B20-0741"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-03-27 00:00:00", 
+            "signed": null, 
+            "first": "2014-03-27 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140401154625.pdf", 
+              "doc_id": "DCD00008388", 
+              "name": "Introduction"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "bill"
+          ], 
+          "id": "DCB00005059", 
+          "bill_id": "B 20-0741"
+        }, 
+        {
+          "votes": [], 
+          "documents": [], 
+          "title": "\"COMPENSATION AWARD FOR THE COLLECTIVE BARGAINING AGREEMENT BETWEEN THE GOVERNMENT OF THE DISTRICT OF COLUMBIA DEPARTMENT OF HEALTH, DEPARTMENT OF YOUTH REHABILITATION SERVICES, DEPARTMENT ON DISABILITY SERVICES, DEPARTMENT OF HEALTH CARE FINANCE, CHILD AND FAMILY SERVICES AGENCY AND THE OFFICE OF THE CHIEF MEDICAL EXAMINER (COMPENSATION UNIT 13) AND THE DISTRICT OF COLUMBIA NURSES ASSOCIATION EMERGENCY DECLARATION RESOLUTION OF 2014\".", 
+          "alternate_titles": [], 
+          "created_at": "2014-04-02 00:34:44", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00005060"
+          ], 
+          "actions": [
+            {
+              "date": "2014-03-27 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000005", 
+              "type": "primary", 
+              "name": "PMendelson"
+            }, 
+            {
+              "leg_id": null, 
+              "official_type": "requestor", 
+              "type": "cosponsor", 
+              "name": "the Mayor", 
+              "committee_id": null
+            }
+          ], 
+          "updated_at": "2014-04-02 00:34:44", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=PR20-0716"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-03-27 00:00:00", 
+            "signed": null, 
+            "first": "2014-03-27 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140401154436.pdf", 
+              "doc_id": "DCD00008389", 
+              "name": "Introduction"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "resolution"
+          ], 
+          "id": "DCB00005060", 
+          "bill_id": "PR 20-0716"
+        }, 
+        {
+          "votes": [], 
+          "documents": [], 
+          "title": "\"COMPENSATION AWARD FOR THE COLLECTIVE BARGAINING AGREEMENT BETWEEN THE GOVERNMENT OF THE DISTRICT OF COLUMBIA DEPARTMENT OF HEALTH, DEPARTMENT OF YOUTH REHABILITATION SERVICES, DEPARTMENT ON DISABILITY SERVICES, DEPARTMENT OF HEALTH CARE FINANCE, CHILD AND FAMILY SERVICES AGENCY AND THE OFFICE OF THE CHIEF MEDICAL EXAMINER (COMPENSATION UNIT 13) AND THE DISTRICT OF COLUMBIA NURSES ASSOCIATION EMERGENCY APPROVAL RESOLUTION OF 2014\".", 
+          "alternate_titles": [], 
+          "created_at": "2014-04-02 00:34:48", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00005061"
+          ], 
+          "actions": [
+            {
+              "date": "2014-03-27 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000005", 
+              "type": "primary", 
+              "name": "PMendelson"
+            }, 
+            {
+              "leg_id": null, 
+              "official_type": "requestor", 
+              "type": "cosponsor", 
+              "name": "the Mayor", 
+              "committee_id": null
+            }
+          ], 
+          "updated_at": "2014-04-02 00:34:48", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=PR20-0717"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-03-27 00:00:00", 
+            "signed": null, 
+            "first": "2014-03-27 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140401154536.pdf", 
+              "doc_id": "DCD00008390", 
+              "name": "Introduction"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "resolution"
+          ], 
+          "id": "DCB00005061", 
+          "bill_id": "PR 20-0717"
+        }, 
+        {
+          "votes": [], 
+          "documents": [], 
+          "title": "\"PUBLIC CHARTER SCHOOL BOARD ENRIQUE CRUZ CONFIRMATION RESOLUTION OF 2014\".", 
+          "alternate_titles": [], 
+          "created_at": "2014-02-19 01:04:56", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00004915"
+          ], 
+          "actions": [
+            {
+              "date": "2014-02-07 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-18 00:00:00", 
+              "action": "Withdrawn", 
+              "type": [
+                "bill:withdrawn"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000005", 
+              "type": "primary", 
+              "name": "PMendelson"
+            }, 
+            {
+              "leg_id": null, 
+              "official_type": "requestor", 
+              "type": "cosponsor", 
+              "name": "the Mayor", 
+              "committee_id": null
+            }
+          ], 
+          "updated_at": "2014-04-04 00:12:39", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=PR20-0652"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-03-18 00:00:00", 
+            "signed": null, 
+            "first": "2014-02-07 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140218123916.pdf", 
+              "doc_id": "DCD00008150", 
+              "name": "Introduction"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "resolution"
+          ], 
+          "id": "DCB00004915", 
+          "bill_id": "PR 20-0652"
+        }, 
+        {
+          "votes": [
+            {
+              "other_count": 2, 
+              "other_votes": [
+                {
+                  "leg_id": "DCL000012", 
+                  "name": "Marion Barry"
+                }, 
+                {
+                  "leg_id": "DCL000014", 
+                  "name": "Vincent Orange"
+                }
+              ], 
+              "yes_count": 10, 
+              "yes_votes": [
+                {
+                  "leg_id": "DCL000021", 
+                  "name": "Anita Bonds"
+                }, 
+                {
+                  "leg_id": "DCL000011", 
+                  "name": "Muriel Bowser"
+                }, 
+                {
+                  "leg_id": "DCL000003", 
+                  "name": "David Catania"
+                }, 
+                {
+                  "leg_id": "DCL000002", 
+                  "name": "Mary M. Cheh"
+                }, 
+                {
+                  "leg_id": "DCL000009", 
+                  "name": "Jack Evans"
+                }, 
+                {
+                  "leg_id": "DCL000007", 
+                  "name": "Jim Graham"
+                }, 
+                {
+                  "leg_id": "DCL000020", 
+                  "name": "David Grosso"
+                }, 
+                {
+                  "leg_id": "DCL000017", 
+                  "name": "Kenyan McDuffie"
+                }, 
+                {
+                  "leg_id": "DCL000005", 
+                  "name": "Phil PMendelson"
+                }, 
+                {
+                  "leg_id": "DCL000008", 
+                  "name": "Tommy Wells"
+                }
+              ], 
+              "+voice_vote": true, 
+              "no_count": 1, 
+              "motion": "Final Reading", 
+              "chamber": "upper", 
+              "state": "dc", 
+              "session": "20", 
+              "sources": [
+                {
+                  "url": "http://dcclims1.dccouncil.us/lims/voting.aspx?VoteTypeID=2&LegID=B20-0409"
+                }
+              ], 
+              "passed": true, 
+              "date": "2014-03-04 00:00:00", 
+              "vote_id": "DCV00003222", 
+              "type": "other", 
+              "id": "DCV00003222", 
+              "bill_id": "DCB00004182", 
+              "no_votes": [
+                {
+                  "leg_id": "DCL000010", 
+                  "name": "Yvette Alexander"
+                }
+              ]
+            }, 
+            {
+              "other_count": 1, 
+              "other_votes": [
+                {
+                  "leg_id": "DCL000012", 
+                  "name": "Marion Barry"
+                }
+              ], 
+              "yes_count": 12, 
+              "yes_votes": [
+                {
+                  "leg_id": "DCL000010", 
+                  "name": "Yvette Alexander"
+                }, 
+                {
+                  "leg_id": "DCL000021", 
+                  "name": "Anita Bonds"
+                }, 
+                {
+                  "leg_id": "DCL000011", 
+                  "name": "Muriel Bowser"
+                }, 
+                {
+                  "leg_id": "DCL000003", 
+                  "name": "David Catania"
+                }, 
+                {
+                  "leg_id": "DCL000002", 
+                  "name": "Mary M. Cheh"
+                }, 
+                {
+                  "leg_id": "DCL000009", 
+                  "name": "Jack Evans"
+                }, 
+                {
+                  "leg_id": "DCL000007", 
+                  "name": "Jim Graham"
+                }, 
+                {
+                  "leg_id": "DCL000020", 
+                  "name": "David Grosso"
+                }, 
+                {
+                  "leg_id": "DCL000017", 
+                  "name": "Kenyan McDuffie"
+                }, 
+                {
+                  "leg_id": "DCL000014", 
+                  "name": "Vincent Orange"
+                }, 
+                {
+                  "leg_id": "DCL000005", 
+                  "name": "Phil PMendelson"
+                }, 
+                {
+                  "leg_id": "DCL000008", 
+                  "name": "Tommy Wells"
+                }
+              ], 
+              "+voice_vote": true, 
+              "no_count": 0, 
+              "motion": "1st Reading", 
+              "chamber": "upper", 
+              "state": "dc", 
+              "session": "20", 
+              "sources": [
+                {
+                  "url": "http://dcclims1.dccouncil.us/lims/voting.aspx?VoteTypeID=1&LegID=B20-0409"
+                }
+              ], 
+              "passed": true, 
+              "date": "2014-02-04 00:00:00", 
+              "vote_id": "DCV00003185", 
+              "type": "other", 
+              "id": "DCV00003185", 
+              "bill_id": "DCB00004182", 
+              "no_votes": []
+            }
+          ], 
+          "documents": [], 
+          "title": "\"SIMPLE POSSESSION OF SMALL QUANTITIES OF MARIJUANA DECRIMINALIZATION AMENDMENT ACT OF 2013\".", 
+          "alternate_titles": [], 
+          "created_at": "2013-07-14 03:41:28", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00004182"
+          ], 
+          "actions": [
+            {
+              "date": "2013-07-10 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-01-15 00:00:00", 
+              "action": "Committee Action", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-02-04 00:00:00", 
+              "action": "First Vote", 
+              "type": [
+                "bill:reading:1"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-04 00:00:00", 
+              "action": "Final Vote", 
+              "type": [
+                "bill:reading:3"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-19 00:00:00", 
+              "action": "Transmitted to Mayor", 
+              "type": [
+                "governor:received"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }, 
+            {
+              "date": "2014-03-31 00:00:00", 
+              "action": "Signed by Mayor", 
+              "type": [
+                "governor:signed"
+              ], 
+              "related_entities": [], 
+              "actor": "mayor"
+            }, 
+            {
+              "date": "2014-03-31 00:00:00", 
+              "action": "Returned by Mayor", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "mayor"
+            }, 
+            {
+              "date": "2014-03-31 00:00:00", 
+              "action": "Enacted", 
+              "type": [
+                "other"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000008", 
+              "type": "primary", 
+              "name": "Wells"
+            }, 
+            {
+              "leg_id": "DCL000012", 
+              "type": "primary", 
+              "name": "Barry"
+            }, 
+            {
+              "leg_id": "DCL000017", 
+              "type": "primary", 
+              "name": "McDuffie"
+            }, 
+            {
+              "leg_id": "DCL000009", 
+              "type": "primary", 
+              "name": "Evans"
+            }, 
+            {
+              "leg_id": "DCL000021", 
+              "type": "primary", 
+              "name": "Bonds"
+            }, 
+            {
+              "leg_id": "DCL000020", 
+              "type": "primary", 
+              "name": "Grosso"
+            }, 
+            {
+              "leg_id": "DCL000007", 
+              "type": "primary", 
+              "name": "Graham"
+            }, 
+            {
+              "leg_id": "DCL000002", 
+              "type": "primary", 
+              "name": "Cheh"
+            }, 
+            {
+              "leg_id": "DCL000003", 
+              "type": "cosponsor", 
+              "name": "Catania"
+            }, 
+            {
+              "leg_id": "DCL000005", 
+              "type": "cosponsor", 
+              "name": "PMendelson"
+            }
+          ], 
+          "updated_at": "2014-04-02 00:34:34", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=B20-0409"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-03-31 00:00:00", 
+            "signed": "2014-03-31 00:00:00", 
+            "first": "2013-07-10 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20130712104415.pdf", 
+              "doc_id": "DCD00006634", 
+              "name": "Introduction"
+            }, 
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140127180450.pdf", 
+              "doc_id": "DCD00007976", 
+              "name": "Committee Report"
+            }, 
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140221151254.pdf", 
+              "doc_id": "DCD00008160", 
+              "name": "Engrossment"
+            }, 
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140313122630.pdf", 
+              "doc_id": "DCD00008308", 
+              "name": "Enrollment"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "bill"
+          ], 
+          "id": "DCB00004182", 
+          "bill_id": "B 20-0409"
+        }, 
+        {
+          "votes": [], 
+          "documents": [], 
+          "title": "\"AFFORDABLE HOUSING PRESERVATION TEMPORARY AMENDMENT ACT OF 2014\".", 
+          "alternate_titles": [], 
+          "created_at": "2014-04-02 00:34:34", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00005058"
+          ], 
+          "actions": [
+            {
+              "date": "2014-03-27 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000012", 
+              "type": "primary", 
+              "name": "Barry"
+            }
+          ], 
+          "updated_at": "2014-04-02 00:34:34", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=B20-0742"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-03-27 00:00:00", 
+            "signed": null, 
+            "first": "2014-03-27 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140401154720.pdf", 
+              "doc_id": "DCD00008387", 
+              "name": "Introduction"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "bill"
+          ], 
+          "id": "DCB00005058", 
+          "bill_id": "B 20-0742"
+        }, 
+        {
+          "votes": [], 
+          "documents": [], 
+          "title": "\"HOME CARE AGENCY LICENSING CLARIFICATION ACT OF 2014\".", 
+          "alternate_titles": [], 
+          "created_at": "2014-04-02 00:34:31", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00005055"
+          ], 
+          "actions": [
+            {
+              "date": "2014-03-27 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000009", 
+              "type": "primary", 
+              "name": "Evans"
+            }
+          ], 
+          "updated_at": "2014-04-02 00:34:31", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=B20-0743"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-03-27 00:00:00", 
+            "signed": null, 
+            "first": "2014-03-27 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140401154804.pdf", 
+              "doc_id": "DCD00008384", 
+              "name": "Introduction"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "bill"
+          ], 
+          "id": "DCB00005055", 
+          "bill_id": "B 20-0743"
+        }, 
+        {
+          "votes": [], 
+          "documents": [], 
+          "title": "\"AFFORDABLE HOUSING PRESERVATION AMENDMENT EMERGENCY DECLARATION RESOLUTION OF 2014\".", 
+          "alternate_titles": [], 
+          "created_at": "2014-04-02 00:34:33", 
+          "companions": [], 
+          "all_ids": [
+            "DCB00005057"
+          ], 
+          "actions": [
+            {
+              "date": "2014-03-27 00:00:00", 
+              "action": "Introduction", 
+              "type": [
+                "bill:introduced"
+              ], 
+              "related_entities": [], 
+              "actor": "upper"
+            }
+          ], 
+          "sponsors": [
+            {
+              "leg_id": "DCL000012", 
+              "type": "primary", 
+              "name": "Barry"
+            }
+          ], 
+          "updated_at": "2014-04-02 00:34:33", 
+          "sources": [
+            {
+              "url": "http://dcclims1.dccouncil.us/lims/legislation.aspx?LegNo=PR20-0715"
+            }
+          ], 
+          "state": "dc", 
+          "session": "20", 
+          "action_dates": {
+            "passed_upper": null, 
+            "passed_lower": null, 
+            "last": "2014-03-27 00:00:00", 
+            "signed": null, 
+            "first": "2014-03-27 00:00:00"
+          }, 
+          "chamber": "upper", 
+          "versions": [
+            {
+              "mimetype": "application/pdf", 
+              "url": "http://dcclims1.dccouncil.us/images/00001/20140401154331.pdf", 
+              "doc_id": "DCD00008386", 
+              "name": "Introduction"
+            }
+          ], 
+          "subjects": [], 
+          "type": [
+            "resolution"
+          ], 
+          "id": "DCB00005057", 
+          "bill_id": "PR 20-0715"
+        }
+      ], 
+      "council": "CDC"
+    }
+  ]
+}
