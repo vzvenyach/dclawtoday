@@ -61,7 +61,7 @@ function loadcases (loaddate) {
 			} else if (court.measures != undefined) {
 				court.measures.forEach(function (m) {
 					last_action = m.actions.length - 1
-					$("#CDC").append("<p><a href='" + m.sources[0].url + "' target='blank'>" + m.title + '</a> -- ' + m.actions[last_action].action + '</p>')
+					$("#CDC").append("<p><a href='" + m.sources[0].url + "' target='blank'>" + m.title + '</a> -- ' + m.actions[last_action].action + ' (' + m.actions[last_action].date.split(" ")[0] + ')</p>')
 				})
 			}
 		})
