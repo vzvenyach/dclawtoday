@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
 # USAGE
-# python app.py > test.json
+# 
+# python app.py 
 # 
 # This generates a JSON object of each of the 3 courts' decisions and the Council's actions for the day
 
@@ -39,19 +40,17 @@ def get_courts (court, date):
 
 def get_measures (date):
 	out_data = []
-	measures_url = "http://api.opencivicdata.org/bills/?jurisdiction_id=ocd-jurisdiction/country:us/state:dc/legislature&apikey=e1b0f4a0c7b94f70aed6e6273c2a5b2c&updated_at__gt=" + date
+	measures_url = "https://api.opencivicdata.org/bills/?jurisdiction_id=ocd-jurisdiction/country:us/state:dc/legislature&apikey=e1b0f4a0c7b94f70aed6e6273c2a5b2c&updated_at__gt=" + date
 	data = json.load(urllib2.urlopen(measures_url))
-#	print data
 	for m in data["results"]:
 		m_id = m["identifiers"][0]["identifier"]
-#		print m_id
 		m_url = 'http://openstates.org/api/v1/bills/' + m_id + '?&apikey=e1b0f4a0c7b94f70aed6e6273c2a5b2c'
 		m_data = json.load(urllib2.urlopen(m_url))
 		out_data.append(m_data)
 	return out_data
 
 def write_to_file (date, data):
-	f = open('./json/' + date + '.json', 'w')
+	f = open('../json/' + date + '.json', 'w')
 	f.write(data)
 	f.close
 
@@ -77,4 +76,5 @@ def main ():
 		"measures": get_measures(date)
 		})
 	write_to_file(date, json.dumps({"date":date, "objects":data}, indent=2))
+
 main()
